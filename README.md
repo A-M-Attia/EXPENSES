@@ -5,5 +5,5 @@ this small project gives you the ability to
 * filter expenses by year
 * show year expenses with chart
  ### made by
-ENG/ Ahmed attia
+ENG/ Ahmed Attia
 
